@@ -9,6 +9,10 @@ construction: file
 keywords: [persona, n8n-reviewer, reviewer, gatekeeper, n8n, pr-review, "persona:n8n-reviewer"]
 requires:
   - n8n/knowledge/REVIEW_PATTERNS
+  - n8n/knowledge/ARCHITECTURE
+  - n8n/knowledge/BUILD_ENV
+  - n8n/knowledge/TEST_PATTERNS
+  - n8n/knowledge/PROJECT_STACK
 updated: 2026-06-07
 ---
 

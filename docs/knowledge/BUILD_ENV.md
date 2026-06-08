@@ -4,7 +4,7 @@ category: knowledge
 name: BUILD_ENV
 title: "n8n — Build System and Dev Environment"
 description: How to set up, build, run, and test n8n locally — commands, tooling, and caveats
-keywords: [n8n, build, pnpm, turbo, dev, env, setup, commands, biome, eslint, prettier]
+keywords: [n8n, build, pnpm, turbo, dev, env, setup, commands, biome, eslint, prettier, "persona:n8n-dev"]
 updated: 2026-06-08
 ---
 

@@ -4,7 +4,7 @@ category: knowledge
 name: TEST_PATTERNS
 title: "n8n — Test Patterns and Organization"
 description: How n8n organizes, writes, and runs tests — unit, integration, and E2E
-keywords: [n8n, tests, jest, vitest, playwright, unit, integration, e2e, coverage, fast-check, testcontainers]
+keywords: [n8n, tests, jest, vitest, playwright, unit, integration, e2e, coverage, fast-check, testcontainers, "persona:n8n-dev"]
 updated: 2026-06-08
 ---
 

@@ -4,7 +4,7 @@ category: knowledge
 name: ARCHITECTURE
 title: "n8n — Architecture and Layer Boundaries"
 description: Package map, layer boundaries, key interfaces, and review-critical zones in n8n-io/n8n
-keywords: [n8n, architecture, packages, layers, boundaries, interfaces, core, cli, workflow, frontend, nodes, dependency]
+keywords: [n8n, architecture, packages, layers, boundaries, interfaces, core, cli, workflow, frontend, nodes, dependency, "persona:n8n-dev", "persona:n8n-reviewer"]
 updated: 2026-06-08
 ---
 

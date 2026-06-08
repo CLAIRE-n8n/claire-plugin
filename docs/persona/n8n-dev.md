@@ -5,6 +5,12 @@ name: n8n-dev
 title: "n8n Developer Agent"
 description: Developer agent for contributing to n8n-io/n8n — worktree-bound, TypeScript-first, monorepo-aware
 keywords: [persona, n8n-dev, developer, n8n, typescript, monorepo, pnpm, turbo]
+requires:
+  - n8n/knowledge/PROJECT_STACK
+  - n8n/knowledge/BUILD_ENV
+  - n8n/knowledge/TEST_PATTERNS
+  - n8n/knowledge/ARCHITECTURE
+  - n8n/knowledge/RUN_GUIDE
 updated: 2026-06-08
 ---
 

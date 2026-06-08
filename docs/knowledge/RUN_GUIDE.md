@@ -4,7 +4,7 @@ category: knowledge
 name: RUN_GUIDE
 title: "n8n — Local Run Guide"
 description: How to run n8n locally for development — startup, login, workflow creation, and environment options
-keywords: [n8n, run, local, development, startup, login, workflow, debug, env, sqlite, postgres]
+keywords: [n8n, run, local, development, startup, login, workflow, debug, env, sqlite, postgres, "persona:n8n-dev"]
 updated: 2026-06-08
 ---
 

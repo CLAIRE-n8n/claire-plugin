@@ -4,7 +4,7 @@ category: knowledge
 name: REVIEW_PATTERNS
 title: "n8n — PR Review Patterns (mined from n8n-io/n8n)"
 description: "Empirical review patterns extracted from the last 200 closed PRs in n8n-io/n8n. Approval signals, blocker signals, reviewer vocabulary, and merge criteria."
-keywords: [n8n, review, patterns, approval, blockers, vocabulary, merge-criteria, reviewer, lgtm, changes-requested]
+keywords: [n8n, review, patterns, approval, blockers, vocabulary, merge-criteria, reviewer, lgtm, changes-requested, "persona:n8n-reviewer"]
 updated: 2026-06-07
 ---
 

@@ -4,7 +4,7 @@ category: knowledge
 name: PROJECT_STACK
 title: "n8n — Project Stack Overview"
 description: Technology stack, package layout, and module boundaries for n8n-io/n8n
-keywords: [n8n, stack, packages, typescript, vue, pnpm, turbo, monorepo]
+keywords: [n8n, stack, packages, typescript, vue, pnpm, turbo, monorepo, "persona:n8n-dev"]
 updated: 2026-06-08
 ---
 
